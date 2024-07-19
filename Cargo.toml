@@ -12,5 +12,5 @@ rand = "0.8.5"
 criterion = "0.3"
 
 [[bench]]
-name = "my_benchmark"
+name = "merge"
 harness = false
